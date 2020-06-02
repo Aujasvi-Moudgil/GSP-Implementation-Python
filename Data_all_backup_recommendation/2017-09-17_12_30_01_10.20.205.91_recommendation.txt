@@ -1,0 +1,13 @@
+2017-09-17 12:31:21;chronos#XIXe siècle
+2017-09-17 12:31:38;thema#Cul de lampe;topos#Finistère;chronos#1847
+2017-09-17 12:32:48;thema#Mesure à grains;topos#Lanvéoc;chronos#XVIIe siècle
+2017-09-17 12:33:21;thema#Lieux de culte et de dévotion;chronos#Grandes empires et guerres mondiales
+2017-09-17 12:34:20;thema#Société
+2017-09-17 12:34:46;thema#Maison;chronos#1847
+2017-09-17 12:35:22;thema#Serrure;topos#Lanvaudan;chronos#XIVe siècle
+2017-09-17 12:35:41;thema#Habitat;topos#Plancoët;chronos#Grands siècles
+2017-09-17 12:36:22;thema#Four;topos#Bannalec;chronos#XIXe siècle
+2017-09-17 12:36:50;thema#Maison;topos#Finistère;chronos#1847
+2017-09-17 12:37:21;topos#Henvic;chronos#Renaissance
+2017-09-17 12:38:44;thema#Cul de lampe;chronos#XVIIe siècle
+2017-09-17 12:39:22;thema#Frise;topos#Dinard;chronos#XXe siècle

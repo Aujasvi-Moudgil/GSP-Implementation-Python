@@ -1,0 +1,10 @@
+2017-09-17 12:19:28;chronos#XXe siècle
+2017-09-17 12:20:27;chronos#XIXe siècle
+2017-09-17 12:21:28;thema#Puits;topos#Querrien;chronos#XVIIIe siècle
+2017-09-17 12:22:27;thema#Costume traditionnel
+2017-09-17 12:23:27;thema#Croix;topos#La Vraie-Croix
+2017-09-17 12:24:28;thema#Patrimoine religieux;topos#Elven;chronos#IXe siècle
+2017-09-17 12:25:28;thema#Église;topos#Île-aux-Moines;chronos#XXe siècle
+2017-09-17 12:26:28;thema#Retable;topos#Limerzel;chronos#XVe siècle
+2017-09-17 12:27:27;topos#Saint-Rivoal
+2017-09-17 12:29:01;topos#La Vraie-Croix;chronos#XIXe siècle

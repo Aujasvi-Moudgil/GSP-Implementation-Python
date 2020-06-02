@@ -1,0 +1,7 @@
+2017-09-17 12:52:05;chronos#XXe siècle
+2017-09-17 12:54:05;thema#Chapelle;chronos#XVIIe siècle
+2017-09-17 12:56:05;thema#Moulin à eau;chronos#XIXe siècle
+2017-09-17 12:57:04;topos#Finistère
+2017-09-17 12:58:04;topos#Saint-Pierre Quiberon
+2017-09-17 12:59:04;thema#Pont ;topos#Taulé
+2017-09-17 13:01:04;thema#Habitat;topos#Carhaix-Plouguer

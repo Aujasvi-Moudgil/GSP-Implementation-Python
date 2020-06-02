@@ -1,0 +1,8 @@
+2017-09-17 12:53:15;thema#Fontaine de dévotion;topos#Lanneufret;chronos#XVIIe siècle
+2017-09-17 12:53:19;thema#Chapelle;topos#Saint-Coulitz;chronos#Grands siècles
+2017-09-17 12:54:15;thema#Poudrière;topos#Rosnoën;chronos#XIXe siècle
+2017-09-17 12:55:16;thema#Lavoir;topos#Brest;chronos#XVIIIe siècle
+2017-09-17 12:55:46;thema#Pressoir;topos#Pont-Aven;chronos#Grandes empires et guerres mondiales
+2017-09-17 12:56:13;thema#Culture du sol
+2017-09-17 12:57:14;thema#Infrastructures publiques;topos#Tréméoc
+2017-09-17 12:58:15;thema#Chapelle;topos#Landudal;chronos#Grands siècles

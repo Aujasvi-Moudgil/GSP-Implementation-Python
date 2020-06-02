@@ -1,0 +1,15 @@
+2017-09-17 12:58:11;topos#La Forêt-Fouesnant;chronos#XVIIIe siècle
+2017-09-17 12:59:11;thema#Chapelle;topos#Plomelin;chronos#XIXe siècle
+2017-09-17 13:01:11;thema#Chapiteau;topos#Pouldergat;chronos#XIIe siècle
+2017-09-17 13:01:21;thema#Calvaire;topos#Finistère;chronos#1102
+2017-09-17 13:01:36;thema#Lieux de culte et de dévotion;topos#Saint-Goazec;chronos#Grandes empires et guerres mondiales
+2017-09-17 13:02:11;topos#Pouldreuzic;chronos#XXe siècle
+2017-09-17 13:02:46;thema#Chapelle;topos#Plomelin;chronos#XVIIe siècle
+2017-09-17 13:02:53;thema#Calvaire;topos#Finistère;chronos#1649
+2017-09-17 13:03:21;thema#Église;topos#Saint-Goazec;chronos#XVIe siècle
+2017-09-17 13:03:32;thema#Cale;topos#La Forêt-Fouesnant;chronos#Grands siècles
+2017-09-17 13:03:43;thema#Blanchisserie;topos#Camaret-sur-Mer;chronos#1607
+2017-09-17 13:04:11;thema#Mur;topos#Finistère;chronos#XXe siècle
+2017-09-17 13:04:45;thema#Portail;topos#Saint-Goazec;chronos#XVIe siècle
+2017-09-17 13:04:55;thema#Calvaire;topos#La Forêt-Fouesnant;chronos#Grands siècles
+2017-09-17 13:05:43;thema#Cale;topos#Guimiliau;chronos#1649

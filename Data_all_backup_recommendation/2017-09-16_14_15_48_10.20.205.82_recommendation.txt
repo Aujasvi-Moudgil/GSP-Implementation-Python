@@ -1,0 +1,19 @@
+2017-09-16 14:16:20;chronos#XXe siècle
+2017-09-16 14:17:20;topos#Plouguenast;chronos#XIXe siècle
+2017-09-16 14:17:41;thema#Fléau;topos#Côtes-d'Armor;chronos#Grandes empires et guerres mondiales
+2017-09-16 14:17:50;thema#Culture du sol;topos#La Forêt-Fouesnant;chronos#1804
+2017-09-16 14:18:20;thema#Broyeur;topos#Plouvien;chronos#XVIIIe siècle
+2017-09-16 14:19:43;thema#Pressoir;topos#Argol;chronos#XIXe siècle
+2017-09-16 14:20:04;thema#Charrue;topos#Finistère;chronos#XXe siècle
+2017-09-16 14:20:18;thema#Culture du sol
+2017-09-16 14:20:31;thema#Crucifix;topos#Plouvien;chronos#XVIIe siècle
+2017-09-16 14:20:51;thema#Fontaine;topos#Poullan-sur-Mer;chronos#Grands siècles
+2017-09-16 14:21:18;thema#Couvert;topos#Plougastel-Daoulas;chronos#XVIe siècle
+2017-09-16 14:21:33;thema#Habitat;topos#La Forêt-Fouesnant;chronos#XIXe siècle
+2017-09-16 14:22:01;thema#Château;topos#Plounévez-Lochrist;chronos#XVIIIe siècle
+2017-09-16 14:22:19;thema#Fontaine
+2017-09-16 14:23:21;thema#Cadran solaire;topos#Lesneven;chronos#Grandes empires et guerres mondiales
+2017-09-16 14:24:14;thema#Habitat;topos#Châteaulin;chronos#XVIIe siècle
+2017-09-16 14:24:20;thema#Façade;chronos#Grands siècles
+2017-09-16 14:25:21;thema#Fontaine;chronos#XVIe siècle
+2017-09-16 14:25:50;thema#Mur;topos#Île-Tudy;chronos#XIXe siècle

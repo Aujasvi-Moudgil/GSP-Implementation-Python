@@ -1,0 +1,12 @@
+2017-09-16 13:17:29;topos#Crozon
+2017-09-16 13:18:30;thema#Bassin;chronos#XIXe siècle
+2017-09-16 13:20:30;thema#Porte;topos#Plouzané;chronos#XVIe siècle
+2017-09-16 13:21:30;thema#Jardin;topos#Île-de-Batz;chronos#XXe siècle
+2017-09-16 13:21:33;thema#Habitat;topos#Finistère;chronos#Grandes empires et guerres mondiales
+2017-09-16 13:22:12;thema#Fenêtre;topos#Le Quillio;chronos#XVIIIe siècle
+2017-09-16 13:22:23;thema#Chapelle;topos#Côtes-d'Armor;chronos#XVIIe siècle
+2017-09-16 13:22:34;thema#Jardin;topos#Saint-Goazec;chronos#XXe siècle
+2017-09-16 13:24:30;topos#Carantec;chronos#Grandes empires et guerres mondiales
+2017-09-16 13:24:34;thema#Fenêtre;topos#Finistère;chronos#XVIIIe siècle
+2017-09-16 13:24:47;thema#Chœur;topos#Île-Tudy;chronos#1704
+2017-09-16 13:25:31;thema#Voûte;topos#Locmalo;chronos#XVe siècle

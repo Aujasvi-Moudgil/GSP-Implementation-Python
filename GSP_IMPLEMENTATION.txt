@@ -1,0 +1,10 @@
+﻿CASE STUDY- GSP IMPLEMENTATION
+
+1. The folder ‘Data_GSP’ consists of data files from “all-backup recommendation” provided. 
+2. The code is implemented in python 2.7 (spyder).
+3. If we run main.py, we get patterns by n-candidate level GSP but it doesn’t count tuples. 
+   Like in multiple user data for each timestamp, there can be more than 1 items.
+4. If we run main2.py, we get patterns by 2-candidate level GSP where tuples can be observed in (    ,   ).
+5. Threshold (min. support)  and Level are variable, can be changed to see different patterns by GSP.
+6. gsp and gsp2 classes files.
+7. Some of the result screenshots produced by GSP is provided in the slides with different threshold (support) and levels. 

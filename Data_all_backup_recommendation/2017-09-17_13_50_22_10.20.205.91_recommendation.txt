@@ -1,0 +1,8 @@
+2017-09-17 13:51:29;topos#Lennon;chronos#XXe siècle
+2017-09-17 13:52:28;chronos#XVIIe siècle
+2017-09-17 13:53:28;thema#Ferme
+2017-09-17 13:54:28;topos#Plougastel-Daoulas
+2017-09-17 13:55:29;thema#Manoir;topos#Plouézec;chronos#XVIIIe siècle
+2017-09-17 13:56:29;thema#Rouissoir;chronos#XVIIe siècle
+2017-09-17 13:57:28;topos#Larmor-Baden
+2017-09-17 13:59:29;thema#Baratte;topos#Porspoder;chronos#XXe siècle

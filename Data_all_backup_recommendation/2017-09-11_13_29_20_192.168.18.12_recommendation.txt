@@ -1,0 +1,17 @@
+2017-09-11 13:29:57;topos#Plouézoch
+2017-09-11 13:30:20;thema#Tableau;topos#Landévennec;chronos#XVIIe siècle
+2017-09-11 13:30:57;thema#Chapelle
+2017-09-11 13:31:59;thema#Château;topos#Saint-Martin-des-Champs;chronos#XVIIIe siècle
+2017-09-11 13:32:59;topos#Le Conquet;chronos#XVe siècle
+2017-09-11 13:33:58;thema#Autel;topos#Plumergat
+2017-09-11 13:34:59;thema#Croix;chronos#XVIIe siècle
+2017-09-11 13:35:57;topos#Les Fougerêts
+2017-09-11 13:37:59;thema#Presbytère;chronos#XVe siècle
+2017-09-11 13:38:12;thema#Habitations religieuses;topos#Morbihan;chronos#Renaissance
+2017-09-11 13:39:01;chronos#XIXe siècle
+2017-09-11 13:39:39;thema#Couvent;topos#Loperhet;chronos#1602
+2017-09-11 13:40:59;thema#Bannière;topos#Loc-Brévalaire
+2017-09-11 13:41:36;thema#Jardin;topos#Brest;chronos#XVIIIe siècle
+2017-09-11 13:42:01;thema#Quai;topos#Sibiril;chronos#XXe siècle
+2017-09-11 13:43:01;chronos#XIIIe siècle
+2017-09-11 13:44:00;chronos#XVIe siècle

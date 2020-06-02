@@ -1,0 +1,5 @@
+2017-09-16 13:10:48;thema#Presbytère;chronos#XXe siècle
+2017-09-16 13:11:29;thema#Chapelle;chronos#XIXe siècle
+2017-09-16 13:12:29;thema#Monument aux morts;topos#Trébrivan
+2017-09-16 13:13:30;thema#Lieux de culte et de dévotion;topos#Melrand;chronos#XVIIIe siècle
+2017-09-16 13:17:30;thema#Statue;topos#Plévin;chronos#XVIIe siècle

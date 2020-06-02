@@ -1,0 +1,8 @@
+2017-09-17 11:27:58;topos#Spézet;chronos#XXe siècle
+2017-09-17 11:28:58;chronos#XVIIIe siècle
+2017-09-17 11:29:58;chronos#XIXe siècle
+2017-09-17 11:30:59;thema#Costume traditionnel;topos#Binic;chronos#XVIIe siècle
+2017-09-17 11:32:58;topos#Saint-Renan;chronos#Grandes empires et guerres mondiales
+2017-09-17 11:33:57;topos#Dinan
+2017-09-17 11:34:58;topos#Lampaul-Plouarzel;chronos#XXe siècle
+2017-09-17 11:35:58;thema#Prieuré;chronos#XVIIe siècle

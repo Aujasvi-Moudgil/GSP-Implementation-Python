@@ -1,0 +1,8 @@
+2017-09-16 12:33:23;thema#Chapelle;topos#Saint-Urbain;chronos#XVIIIe siècle
+2017-09-16 12:33:55;thema#Port;topos#Pontrieux;chronos#XXe siècle
+2017-09-16 12:35:23;chronos#XVIIe siècle
+2017-09-16 12:36:23;thema#Usine;chronos#XIXe siècle
+2017-09-16 12:37:23;thema#Produits manufacturés;topos#Plounévez-Moëdec;chronos#XVIIIe siècle
+2017-09-16 12:38:22;thema#Objet manufacturé;topos#Quimperlé
+2017-09-16 12:39:22;topos#Clohars-Carnoët
+2017-09-16 12:40:22;thema#Moulin à vent;topos#Finistère

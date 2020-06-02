@@ -1,0 +1,15 @@
+2017-09-16 12:31:46;topos#Ploudaniel
+2017-09-16 12:32:41;thema#Manoir;topos#Bodilis;chronos#XVe siècle
+2017-09-16 12:33:41;thema#Confessionnal;topos#Pouldreuzic;chronos#XVIIe siècle
+2017-09-16 12:33:44;thema#Patrimoine religieux;topos#Finistère;chronos#Grands siècles
+2017-09-16 12:34:40;topos#Landunvez
+2017-09-16 12:35:15;thema#Charpente;topos#Bodilis;chronos#XVIe siècle
+2017-09-16 12:36:24;thema#Lieux de culte et de dévotion;topos#Saint-Goazec;chronos#1601
+2017-09-16 12:36:40;thema#Patrimoine religieux;topos#Finistère
+2017-09-16 12:37:05;thema#Fort;topos#Plouzané;chronos#XIXe siècle
+2017-09-16 12:38:25;topos#Bodilis;chronos#1806
+2017-09-16 12:39:05;thema#Puits;topos#Landeleau;chronos#XVIe siècle
+2017-09-16 12:39:40;thema#Reliquaire
+2017-09-16 12:40:15;thema#Manoir;topos#Plouzané;chronos#XVIIe siècle
+2017-09-16 12:40:41;topos#Finistère;chronos#Grands siècles
+2017-09-16 12:41:20;thema#Lotissement;topos#Saint-Jacut-de-la-Mer;chronos#XIXe siècle

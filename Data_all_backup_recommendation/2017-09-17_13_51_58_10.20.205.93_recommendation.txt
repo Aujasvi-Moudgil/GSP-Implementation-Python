@@ -1,0 +1,11 @@
+2017-09-17 13:52:55;topos#Bénodet;chronos#XXe siècle
+2017-09-17 13:53:56;thema#Abbaye;topos#Plougonvelin;chronos#XIIe siècle
+2017-09-17 13:54:21;thema#Habitations religieuses;topos#Finistère;chronos#1101
+2017-09-17 13:54:55;topos#Pont-Aven;chronos#XIXe siècle
+2017-09-17 13:55:56;thema#Lavoir;topos#Tréméoc;chronos#XVIIe siècle
+2017-09-17 13:56:55;thema#Rouet;topos#Argol
+2017-09-17 13:57:55;thema#Culture du sol;topos#Saint-Gouéno
+2017-09-17 13:58:55;chronos#XXe siècle
+2017-09-17 13:59:56;topos#Louannec;chronos#XIXe siècle
+2017-09-17 14:00:55;thema#Château fort;topos#Plouër-sur-Rance
+2017-09-17 14:01:55;chronos#XVIIIe siècle

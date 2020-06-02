@@ -1,0 +1,10 @@
+2017-09-17 13:50:37;topos#Lanvéoc
+2017-09-17 13:51:38;topos#Scaër;chronos#XVIIIe siècle
+2017-09-17 13:52:41;thema#Fontaine;topos#Plouarzel;chronos#1799
+2017-09-17 13:53:38;topos#Locquirec;chronos#XIXe siècle
+2017-09-17 13:54:38;topos#Brélès;chronos#XXe siècle
+2017-09-17 13:55:37;topos#Porspoder
+2017-09-17 13:56:38;thema#Portail;chronos#XVIIe siècle
+2017-09-17 13:58:37;thema#Poutre de gloire;topos#Glomel
+2017-09-17 13:59:38;thema#Latrines;topos#Trégueux;chronos#XVIe siècle
+2017-09-17 13:59:56;thema#Habitat;topos#Plémy;chronos#XVIIIe siècle

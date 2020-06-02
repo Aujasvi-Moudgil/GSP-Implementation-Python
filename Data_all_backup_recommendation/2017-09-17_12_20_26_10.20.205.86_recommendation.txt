@@ -1,0 +1,12 @@
+2017-09-17 12:22:05;thema#Chapelle
+2017-09-17 12:23:07;thema#Statue;topos#Dirinon;chronos#XVIIe siècle
+2017-09-17 12:24:06;thema#Patrimoine religieux;topos#Cléder
+2017-09-17 12:25:05;thema#Retable
+2017-09-17 12:25:11;thema#Croix;topos#Saint-Goazec;chronos#Grands siècles
+2017-09-17 12:26:06;thema#Bénitier;chronos#XVIe siècle
+2017-09-17 12:26:47;thema#Linteau;topos#Plogoff;chronos#XIXe siècle
+2017-09-17 12:27:07;thema#Lieux de culte et de dévotion;topos#Allaire;chronos#IXe siècle
+2017-09-17 12:27:46;thema#Vase acoustique;topos#Trégourez;chronos#XVIIe siècle
+2017-09-17 12:28:05;topos#Le Juch
+2017-09-17 12:30:17;thema#Bénitier;topos#Douarnenez;chronos#Grands siècles
+2017-09-17 12:30:23;thema#Lieux de culte et de dévotion;topos#Finistère;chronos#XVIe siècle

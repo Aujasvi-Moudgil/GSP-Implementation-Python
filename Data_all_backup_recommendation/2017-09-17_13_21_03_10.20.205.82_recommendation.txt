@@ -1,0 +1,8 @@
+2017-09-17 13:22:12;chronos#XVIIIe siècle
+2017-09-17 13:23:12;thema#Confessionnal;topos#Pont-L'Abbé
+2017-09-17 13:24:12;thema#Église;topos#Caurel
+2017-09-17 13:25:13;thema#Lieux de culte et de dévotion;topos#Maël-Carhaix;chronos#XXe siècle
+2017-09-17 13:28:13;thema#Tour;topos#Penmarc'h;chronos#XVIe siècle
+2017-09-17 13:28:21;thema#Gargouille;topos#Finistère;chronos#XVIIe siècle
+2017-09-17 13:29:12;thema#Roue;topos#Meilars-Confort;chronos#Grands siècles
+2017-09-17 13:30:14;chronos#XIXe siècle

@@ -1,0 +1,15 @@
+2017-09-17 12:58:01;topos#Landivisiau
+2017-09-17 12:59:44;topos#Landerneau
+2017-09-17 13:00:45;thema#Maison;chronos#XVIe siècle
+2017-09-17 13:01:44;thema#Escalier
+2017-09-17 13:02:46;thema#Serrure;topos#Berrien;chronos#XIXe siècle
+2017-09-17 13:03:06;thema#Habitat;topos#Plouarzel;chronos#XVIIe siècle
+2017-09-17 13:03:27;thema#Manoir;topos#Landerneau;chronos#Grands siècles
+2017-09-17 13:03:46;thema#Escalier;topos#Saint-Juvat;chronos#XVIIIe siècle
+2017-09-17 13:04:45;topos#Loguivy-Plougras
+2017-09-17 13:04:54;thema#Habitat;topos#Côtes-d'Armor;chronos#XVIIe siècle
+2017-09-17 13:05:42;thema#Lavoir;topos#Brest;chronos#1606
+2017-09-17 13:05:49;thema#Escalier;topos#Finistère;chronos#1603
+2017-09-17 13:06:46;topos#Pont-L'Abbé;chronos#XIXe siècle
+2017-09-17 13:07:26;thema#Habitat;topos#Plabennec;chronos#1804
+2017-09-17 13:07:29;thema#Patrimoine de la vie quotidienne;chronos#1805

@@ -1,0 +1,7 @@
+2017-09-17 12:03:26;thema#Chapelle;chronos#XVIIe siècle
+2017-09-17 12:04:25;thema#Exploitation;chronos#XXe siècle
+2017-09-17 12:05:12;thema#Bas-relief;topos#Plouégat-Guerrand;chronos#XVIe siècle
+2017-09-17 12:06:25;chronos#XIXe siècle
+2017-09-17 12:07:25;thema#Théâtre;topos#La Roche-Bernard
+2017-09-17 12:08:26;thema#Exploitation;topos#Ploufragan;chronos#XVIIIe siècle
+2017-09-17 12:10:25;topos#Concarneau;chronos#Grandes empires et guerres mondiales

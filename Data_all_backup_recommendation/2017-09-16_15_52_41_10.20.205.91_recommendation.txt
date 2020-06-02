@@ -1,0 +1,9 @@
+2017-09-16 15:53:11;thema#Presbytère;chronos#XVIIIe siècle
+2017-09-16 15:54:12;thema#Porche;topos#Audierne;chronos#XVIe siècle
+2017-09-16 15:55:11;thema#Prieuré;topos#Dinan;chronos#XIXe siècle
+2017-09-16 15:56:11;thema#Cloître;topos#Vannes;chronos#XVIIe siècle
+2017-09-16 15:57:11;thema#Chaumière;topos#Saint-Goazec
+2017-09-16 15:58:13;topos#Audierne;chronos#XVIe siècle
+2017-09-16 15:59:13;topos#Bignan;chronos#XVIIIe siècle
+2017-09-16 16:00:13;thema#Retable;topos#Guimiliau;chronos#XVIIe siècle
+2017-09-16 16:02:12;topos#Riec-sur-Belon

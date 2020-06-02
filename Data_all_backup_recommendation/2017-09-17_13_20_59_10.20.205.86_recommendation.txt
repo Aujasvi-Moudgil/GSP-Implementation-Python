@@ -1,0 +1,11 @@
+2017-09-17 13:22:17;thema#Exploitation;chronos#XXe siècle
+2017-09-17 13:23:17;thema#Manoir;chronos#XIXe siècle
+2017-09-17 13:24:18;thema#Moulin à eau;topos#Logonna-Daoulas;chronos#XVIIIe siècle
+2017-09-17 13:25:15;thema#Agro-alimentaire;topos#Pleumeur-Bodou;chronos#Grandes empires et guerres mondiales
+2017-09-17 13:26:18;thema#Patrimoine industriel et artisanal;topos#La Méaugon;chronos#XVIIe siècle
+2017-09-17 13:27:18;topos#Saint-Goazec;chronos#XIXe siècle
+2017-09-17 13:28:11;thema#Outil;topos#Lanhélin;chronos#XXe siècle
+2017-09-17 13:28:17;thema#Produits manufacturés;chronos#Grandes empires et guerres mondiales
+2017-09-17 13:29:17;thema#Objet manufacturé;topos#Quimperlé
+2017-09-17 13:29:24;thema#Usine;topos#Finistère;chronos#1904
+2017-09-17 13:30:18;thema#Colombier;topos#Le Guilvinec;chronos#XVIe siècle

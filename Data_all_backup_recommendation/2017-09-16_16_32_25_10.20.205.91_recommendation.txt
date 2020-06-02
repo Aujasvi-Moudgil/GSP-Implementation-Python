@@ -1,0 +1,15 @@
+2017-09-16 16:33:47;thema#Exploitation;chronos#XXe siècle
+2017-09-16 16:34:02;thema#Bassin;topos#Cléden-Cap-Sizun;chronos#XIXe siècle
+2017-09-16 16:34:47;topos#Maroué;chronos#XVIIe siècle
+2017-09-16 16:35:07;topos#Finistère;chronos#XVIIIe siècle
+2017-09-16 16:35:46;thema#Falaise;topos#Clohars-Carnoët
+2017-09-16 16:36:04;thema#Ferme;topos#Mellac;chronos#XIXe siècle
+2017-09-16 16:36:46;thema#Culture du sol;topos#Remungol
+2017-09-16 16:37:40;thema#Patrimoine rural et agricole;topos#Trébrivan;chronos#XVIIIe siècle
+2017-09-16 16:37:47;thema#Château;topos#Missiriac;chronos#Grandes empires et guerres mondiales
+2017-09-16 16:38:48;thema#Canalisation;topos#Pluzunet;chronos#XIXe siècle
+2017-09-16 16:39:46;thema#Lavoir;topos#Plessala
+2017-09-16 16:40:18;thema#Patrimoine industriel et artisanal;topos#Berrien;chronos#XVIIe siècle
+2017-09-16 16:40:47;thema#Port;topos#Sibiril;chronos#XXe siècle
+2017-09-16 16:41:47;thema#Aqueduc;topos#Concarneau;chronos#XIXe siècle
+2017-09-16 16:41:59;thema#Transports maritimes;topos#Finistère;chronos#XVIIIe siècle

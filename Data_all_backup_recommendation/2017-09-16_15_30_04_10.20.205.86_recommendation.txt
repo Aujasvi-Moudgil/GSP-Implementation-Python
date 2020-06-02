@@ -1,0 +1,10 @@
+2017-09-16 15:30:58;topos#Tréméoc;chronos#XVIe siècle
+2017-09-16 15:32:58;thema#Presbytère;chronos#XVIIIe siècle
+2017-09-16 15:34:57;thema#Poutre de gloire;topos#Lampaul-Guimiliau
+2017-09-16 15:36:01;thema#Habitations religieuses;topos#Finistère;chronos#Grandes empires et guerres mondiales
+2017-09-16 15:36:33;thema#Statue;topos#Lanvéoc;chronos#XVIIe siècle
+2017-09-16 15:36:57;topos#Plouescat
+2017-09-16 15:37:33;thema#Presbytère;topos#Saint-Goazec;chronos#XVIIIe siècle
+2017-09-16 15:37:58;thema#Borne;topos#Trébabu;chronos#Grandes empires et guerres mondiales
+2017-09-16 15:38:06;thema#Transports routiers;topos#Finistère;chronos#1700
+2017-09-16 15:39:58;thema#Canalisation;topos#Pluzunet;chronos#XIXe siècle

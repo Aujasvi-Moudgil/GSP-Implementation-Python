@@ -1,0 +1,20 @@
+2017-09-16 14:19:42;thema#Statue;topos#Finistère;chronos#XVIe siècle
+2017-09-16 14:20:27;thema#Plan et carte;topos#Châteaubourg;chronos#XVIIIe siècle
+2017-09-16 14:20:37;thema#Patrimoine administratif et politique;topos#Ile-et-Vilaine;chronos#Grandes empires et guerres mondiales
+2017-09-16 14:21:05;thema#Archives;topos#Quimper;chronos#XIVe siècle
+2017-09-16 14:21:37;thema#Cheminée;topos#Pont-Croix;chronos#Grands siècles
+2017-09-16 14:21:53;thema#Pilastre;topos#Plouha;chronos#XVIIIe siècle
+2017-09-16 14:22:13;thema#Habitat;topos#Côtes-d'Armor;chronos#1705
+2017-09-16 14:22:26;thema#Maison;topos#Plélo;chronos#1701
+2017-09-16 14:22:53;thema#Four;topos#Corlay
+2017-09-16 14:23:13;thema#Pilastre;topos#Poullaouen;chronos#XIXe siècle
+2017-09-16 14:23:17;thema#Patrimoine de la vie quotidienne;topos#Finistère;chronos#Grandes empires et guerres mondiales
+2017-09-16 14:23:53;thema#Berceau;topos#Rostrenen
+2017-09-16 14:24:00;thema#Façade;topos#Plélo;chronos#1801
+2017-09-16 14:24:16;thema#Pilastre;topos#Plouha;chronos#XIXe siècle
+2017-09-16 14:24:55;thema#Tour;topos#Taden;chronos#XVIe siècle
+2017-09-16 14:25:54;thema#Chasse-roue;chronos#XIVe siècle
+2017-09-16 14:26:24;thema#Mur;topos#Esquibien;chronos#XVIIe siècle
+2017-09-16 14:26:55;thema#Pilastre;topos#Saint-Jacut-de-la-Mer;chronos#XIXe siècle
+2017-09-16 14:27:21;thema#Lieux de culte et de dévotion;topos#Concarneau;chronos#Grands siècles
+2017-09-16 14:27:52;topos#Pont-de-Buis-les-Quimerc’h

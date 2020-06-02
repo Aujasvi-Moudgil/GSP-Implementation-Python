@@ -1,0 +1,10 @@
+2017-09-16 15:30:51;topos#Finistère;chronos#XXe siècle
+2017-09-16 15:31:50;thema#Exploitation;topos#Concarneau
+2017-09-16 15:32:51;thema#Bassin;chronos#XIXe siècle
+2017-09-16 15:33:51;topos#Ploufragan;chronos#XVIIIe siècle
+2017-09-16 15:34:51;topos#La Méaugon;chronos#XVIIe siècle
+2017-09-16 15:35:50;thema#Alambic;topos#Pont-L'Abbé
+2017-09-16 15:36:50;thema#Agro-alimentaire
+2017-09-16 15:37:52;thema#Moulin à eau;topos#Pluneret;chronos#XXe siècle
+2017-09-16 15:38:50;thema#Exploitation
+2017-09-16 15:39:51;topos#Lamballe;chronos#XIe siècle

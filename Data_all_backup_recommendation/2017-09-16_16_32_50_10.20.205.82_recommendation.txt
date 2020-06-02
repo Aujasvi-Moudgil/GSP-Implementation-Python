@@ -1,0 +1,11 @@
+2017-09-16 16:33:40;chronos#XIXe siècle
+2017-09-16 16:34:12;thema#Bassin;topos#L’Hôpital-Camfrout;chronos#Grandes empires et guerres mondiales
+2017-09-16 16:34:40;topos#Bourg-Blanc
+2017-09-16 16:35:41;thema#Fenêtre;topos#Finistère;chronos#XXe siècle
+2017-09-16 16:36:40;topos#Plomodiern
+2017-09-16 16:37:35;thema#Réservoir;topos#Locqueltas;chronos#Grandes empires et guerres mondiales
+2017-09-16 16:38:40;thema#Bassin;topos#L’Hôpital-Camfrout
+2017-09-16 16:39:41;thema#Manoir;topos#Plouénan;chronos#XVIe siècle
+2017-09-16 16:40:41;thema#Habitat;topos#Fouesnant;chronos#XIXe siècle
+2017-09-16 16:41:41;thema#Château;topos#Trédrez-Locquémeau;chronos#XIIIe siècle
+2017-09-16 16:42:40;topos#Finistère;chronos#Grandes empires et guerres mondiales

@@ -1,0 +1,10 @@
+2017-09-16 14:39:21;thema#Exploitation;chronos#XXe siècle
+2017-09-16 14:39:28;thema#Agro-alimentaire;topos#Finistère;chronos#Grandes empires et guerres mondiales
+2017-09-16 14:40:21;thema#Outil;topos#Saint-Derrien;chronos#XVIIe siècle
+2017-09-16 14:41:20;topos#Lanhélin
+2017-09-16 14:43:16;thema#Hôtel particulier;topos#Acigné;chronos#XIXe siècle
+2017-09-16 14:43:20;chronos#Grandes empires et guerres mondiales
+2017-09-16 14:44:20;topos#Taupont
+2017-09-16 14:45:08;topos#Morbihan;chronos#1603
+2017-09-16 14:46:20;thema#Dépendance;topos#Augan
+2017-09-16 14:47:20;thema#Plat

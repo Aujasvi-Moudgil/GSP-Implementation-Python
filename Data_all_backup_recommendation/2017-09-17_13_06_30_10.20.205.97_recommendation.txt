@@ -1,0 +1,6 @@
+2017-09-17 13:08:48;thema#Bassin;chronos#XIXe siècle
+2017-09-17 13:09:49;thema#Chapelle;topos#Plomeur;chronos#XVIIIe siècle
+2017-09-17 13:10:49;thema#Bain-douche;topos#Rennes;chronos#XXe siècle
+2017-09-17 13:12:48;thema#Stade;chronos#XVIIe siècle
+2017-09-17 13:14:48;topos#Trédarzec;chronos#XVIe siècle
+2017-09-17 13:15:48;thema#Château;chronos#Grands siècles

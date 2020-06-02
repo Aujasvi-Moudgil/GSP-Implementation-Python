@@ -1,0 +1,11 @@
+2017-09-16 13:31:03;chronos#XXe siècle
+2017-09-16 13:31:26;thema#Exploitation;topos#Esquibien;chronos#1900
+2017-09-16 13:31:44;topos#Finistère;chronos#XVIIIe siècle
+2017-09-16 13:32:02;chronos#Grandes empires et guerres mondiales
+2017-09-16 13:33:01;thema#Tableau
+2017-09-16 13:34:03;thema#Soue à cochon;topos#La Gacilly;chronos#XIXe siècle
+2017-09-16 13:35:00;thema#Élevage;topos#Carnac;chronos#IVe siècle
+2017-09-16 13:36:02;chronos#XVIIe siècle
+2017-09-16 13:36:18;thema#Création;chronos#1606
+2017-09-16 13:36:27;thema#Gravure;topos#La Gacilly;chronos#1649
+2017-09-16 13:38:02;thema#Fontaine;topos#Saint-Nic

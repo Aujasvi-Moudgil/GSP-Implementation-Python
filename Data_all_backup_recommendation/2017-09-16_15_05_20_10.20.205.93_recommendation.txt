@@ -1,0 +1,9 @@
+2017-09-16 15:06:23;topos#Finistère;chronos#XXe siècle
+2017-09-16 15:07:24;thema#Fontaine de dévotion;topos#Loctudy;chronos#XVIIIe siècle
+2017-09-16 15:08:22;thema#Patrimoine administratif et politique
+2017-09-16 15:09:23;thema#Lieux de culte et de dévotion;topos#Tréflez
+2017-09-16 15:10:24;thema#Porte;topos#Le Folgoët;chronos#XVe siècle
+2017-09-16 15:11:24;thema#Tribune;topos#Landunvez;chronos#XVIe siècle
+2017-09-16 15:12:24;thema#Colonne;topos#Loctudy;chronos#XIIe siècle
+2017-09-16 15:13:23;thema#Croix;topos#Finistère;chronos#XXe siècle
+2017-09-16 15:14:23;thema#Linteau;topos#Bonnemain

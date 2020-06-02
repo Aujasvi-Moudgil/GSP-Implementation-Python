@@ -1,0 +1,9 @@
+2017-09-17 13:11:28;chronos#XXe siècle
+2017-09-17 13:12:29;topos#Plonévez-Porzay;chronos#XVIe siècle
+2017-09-17 13:13:29;thema#Maison forte;topos#Briec;chronos#XIXe siècle
+2017-09-17 13:15:29;thema#Citadelle;topos#Le Palais;chronos#XVIIIe siècle
+2017-09-17 13:15:36;thema#Défense;topos#Morbihan;chronos#Grandes empires et guerres mondiales
+2017-09-17 13:16:28;thema#Monument aux morts
+2017-09-17 13:17:14;thema#Bastion;topos#Vannes;chronos#XVIe siècle
+2017-09-17 13:17:29;thema#Château fort;topos#Corlay;chronos#XVe siècle
+2017-09-17 13:19:29;thema#Rempart;topos#Roscanvel;chronos#XVIIe siècle

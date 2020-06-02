@@ -1,0 +1,10 @@
+2017-09-16 15:07:56;topos#Finistère;chronos#XXe siècle
+2017-09-16 15:08:56;thema#Salle capitulaire;topos#Daoulas;chronos#XIIe siècle
+2017-09-16 15:09:56;thema#Abbatiale;chronos#XVIe siècle
+2017-09-16 15:10:56;thema#Chancel;topos#Locquirec;chronos#XVIIe siècle
+2017-09-16 15:11:55;chronos#XVIIIe siècle
+2017-09-16 15:12:55;thema#Statue;topos#Saint-Derrien
+2017-09-16 15:13:56;thema#Bassin;topos#Île-Molène;chronos#XIXe siècle
+2017-09-16 15:14:55;thema#Fontaine de dévotion;topos#Plouay
+2017-09-16 15:15:55;topos#Les Fougerêts
+2017-09-16 15:16:55;chronos#XVIIIe siècle

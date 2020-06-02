@@ -1,0 +1,7 @@
+2017-09-17 12:39:38;thema#Mentalités
+2017-09-17 12:40:39;thema#Presbytère;chronos#XVIIIe siècle
+2017-09-17 12:41:39;chronos#XIXe siècle
+2017-09-17 12:45:38;thema#Habitations religieuses;topos#Saint-Thurial
+2017-09-17 12:46:39;thema#Tableau;topos#Larmor-Baden;chronos#XXe siècle
+2017-09-17 12:47:40;thema#Pierres de fondation;topos#La Poterie;chronos#XVIIe siècle
+2017-09-17 12:48:38;topos#Plancoët

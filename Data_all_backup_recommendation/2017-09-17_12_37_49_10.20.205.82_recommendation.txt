@@ -1,0 +1,10 @@
+2017-09-17 12:39:18;thema#Bassin;chronos#XIXe siècle
+2017-09-17 12:40:14;thema#Réservoir;topos#Locqueltas;chronos#XXe siècle
+2017-09-17 12:41:15;thema#Maison;topos#Trémorel
+2017-09-17 12:42:41;thema#Habitat;topos#Morbihan;chronos#Grandes empires et guerres mondiales
+2017-09-17 12:42:45;thema#Mur;topos#Saint-Goazec;chronos#1901
+2017-09-17 12:43:16;topos#Plougastel-Daoulas;chronos#XVIIe siècle
+2017-09-17 12:44:08;thema#Crucifix;topos#Finistère;chronos#1602
+2017-09-17 12:45:16;thema#Bénitier;chronos#XVIe siècle
+2017-09-17 12:46:17;thema#Lieux de culte et de dévotion;topos#Camaret-sur-Mer;chronos#XXe siècle
+2017-09-17 12:47:15;thema#Prieuré

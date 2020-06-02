@@ -1,0 +1,14 @@
+2017-09-16 12:36:38;thema#Église;topos#Telgruc-sur-Mer
+2017-09-16 12:37:39;thema#Vitrail;topos#Quéménéven;chronos#XVIe siècle
+2017-09-16 12:38:31;thema#Fonts baptismaux;topos#Guilers;chronos#XVe siècle
+2017-09-16 12:39:23;thema#Portail;topos#Corseul;chronos#XIIe siècle
+2017-09-16 12:39:37;thema#Lieux de culte et de dévotion;topos#Saint-Yvi;chronos#Grands siècles
+2017-09-16 12:40:40;thema#Chapelle;topos#Lampaul-Plouarzel;chronos#XVIIe siècle
+2017-09-16 12:41:00;thema#Calvaire;topos#Plémet;chronos#XVIe siècle
+2017-09-16 12:41:39;thema#Croix;chronos#XVIIIe siècle
+2017-09-16 12:42:38;topos#Saint-Servais
+2017-09-16 12:43:39;topos#Saint-Ygeaux;chronos#Grands siècles
+2017-09-16 12:43:52;thema#Chemin de croix;topos#Côtes-d'Armor;chronos#XVIIe siècle
+2017-09-16 12:44:08;thema#Croix;topos#Mellionnec;chronos#1506
+2017-09-16 12:44:40;thema#Boiserie;topos#Tréguier;chronos#XVIIIe siècle
+2017-09-16 12:45:39;topos#Langast;chronos#Grands siècles

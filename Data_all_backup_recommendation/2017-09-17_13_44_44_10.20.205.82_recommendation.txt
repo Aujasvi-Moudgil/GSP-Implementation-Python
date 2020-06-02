@@ -1,0 +1,8 @@
+2017-09-17 13:45:43;chronos#XIXe siècle
+2017-09-17 13:46:43;topos#L’Hôpital-Camfrout;chronos#XVIe siècle
+2017-09-17 13:47:42;thema#Vitrail;topos#Kersaint-Plabennec
+2017-09-17 13:48:34;thema#Amer;topos#Plougonvelin;chronos#XXe siècle
+2017-09-17 13:48:42;topos#Saint-Goazec
+2017-09-17 13:51:42;thema#Reliquaire;topos#Pommerit-Jaudy
+2017-09-17 13:52:43;thema#Porte;topos#Jugon-les-Lacs;chronos#XIXe siècle
+2017-09-17 13:53:42;thema#Plat;topos#Bazouges-la-Pérouse

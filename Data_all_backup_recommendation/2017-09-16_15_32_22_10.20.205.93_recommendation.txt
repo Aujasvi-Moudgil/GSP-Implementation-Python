@@ -1,0 +1,10 @@
+2017-09-16 15:35:21;thema#Lambris
+2017-09-16 15:35:55;thema#Cul de lampe;topos#Finistère;chronos#XIXe siècle
+2017-09-16 15:36:21;topos#Locronan
+2017-09-16 15:37:22;thema#Manoir;topos#La Forêt-Fouesnant;chronos#XVIIIe siècle
+2017-09-16 15:38:10;topos#Lannilis;chronos#XVIe siècle
+2017-09-16 15:38:21;topos#Dinéault
+2017-09-16 15:39:22;thema#Voie ferrée;topos#Finistère;chronos#XIXe siècle
+2017-09-16 15:40:02;thema#Patrimoine industriel et artisanal;topos#Saint-Goazec;chronos#1802
+2017-09-16 15:40:21;thema#Rouissoir;topos#Plourivo
+2017-09-16 15:41:22;thema#Bateau;topos#Le Minihic-sur-Rance;chronos#XXe siècle

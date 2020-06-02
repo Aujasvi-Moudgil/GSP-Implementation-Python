@@ -1,0 +1,13 @@
+2017-09-11 13:18:28;topos#Châteaulin;chronos#XXe siècle
+2017-09-11 13:19:26;topos#Guiler-sur-Goyen
+2017-09-11 13:20:28;thema#Chapelle;chronos#XVIe siècle
+2017-09-11 13:21:26;topos#Ruca
+2017-09-11 13:22:29;thema#Chapiteau;topos#Saint-Caradec-Trégomel;chronos#XVIIIe siècle
+2017-09-11 13:23:28;chronos#XVe siècle
+2017-09-11 13:24:29;thema#Retable;topos#Saint-Thélo;chronos#XVIIe siècle
+2017-09-11 13:26:27;topos#Ruca
+2017-09-11 13:27:27;topos#Névez
+2017-09-11 13:28:30;thema#Vitrail;topos#Saint-Nicolas-du-Pélem;chronos#XVe siècle
+2017-09-11 13:29:30;topos#Saint-Brieuc;chronos#XIXe siècle
+2017-09-11 13:31:45;thema#Clocher;topos#Melrand
+2017-09-11 13:32:27;topos#Ploufragan

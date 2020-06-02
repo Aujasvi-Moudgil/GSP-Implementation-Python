@@ -1,0 +1,9 @@
+2017-09-17 13:55:10;thema#Chapelle;topos#Île-de-Batz;chronos#XIIe siècle
+2017-09-17 13:55:42;topos#Loctudy
+2017-09-17 13:56:21;topos#Finistère
+2017-09-17 13:57:43;topos#Le Juch;chronos#XVIIIe siècle
+2017-09-17 13:58:56;thema#Lavoir;topos#Lampaul-Guimiliau;chronos#XXe siècle
+2017-09-17 13:59:43;thema#Château;chronos#XVe siècle
+2017-09-17 14:00:43;topos#Langast;chronos#XVIIe siècle
+2017-09-17 14:01:42;chronos#XIXe siècle
+2017-09-17 14:02:39;thema#Église;topos#Ploudalmézeau;chronos#XVIIIe siècle
